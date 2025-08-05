@@ -1,4 +1,5 @@
 import nltk
+from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus.reader import PlaintextCorpusReader
 from collections import Counter
 import pandas as pd
@@ -7,7 +8,7 @@ import matplotlib.pyplot as plt
 import string
 import re
 import os
-
+nltk.download('punkt_tab')
 
 class CorpusAnalyzer:
     def __init__(self, corpus):
