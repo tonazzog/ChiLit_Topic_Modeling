@@ -1,0 +1,2 @@
+dataset,surrogate model,acquisition function,num_iteration,time,Median(model_runs),Mean(model_runs),Standard_Deviation(model_runs),activation,dropout,num_topics,t_hidden_size
+dataset_name,RF,LCB,0,578.2785501480103,0.039120230562183805,0.039120230562183805,0.0,relu,0.4114273905066135,49,100
