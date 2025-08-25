@@ -1,0 +1,82 @@
+{
+    "0": {
+        "primary_label": "Courtly Politics",
+        "explanation": "This topic represents themes of governance, inheritance, and social hierarchy among animal characters, reflecting the dynamics of power, treaties, and the importance of lineage and honour in a court-like setting.",
+        "alternative_labels": "Animal Hierarchy, Inheritance and Diplomacy, Treaty Negotiations"
+    },
+    "1": {
+        "primary_label": "Rural Life",
+        "explanation": "This topic represents themes related to rural living, farming, and the interactions among characters in a pastoral setting, as reflected in the documents that discuss farming, relationships, and community life.",
+        "alternative_labels": "Agricultural Society, Country Living, Pastoral Narratives"
+    },
+    "2": {
+        "primary_label": "Whimsical Companionship",
+        "explanation": "This topic represents a sense of wonder and companionship found in a fantastical garden setting, where characters engage in playful dialogue and explore their surroundings with curiosity and delight, particularly through the interactions with the cuckoo.",
+        "alternative_labels": "Magical Garden Adventures, Enchanted Conversations, Curious Companions"
+    },
+    "3": {
+        "primary_label": "Camping Preparations",
+        "explanation": "This topic revolves around the activities and preparations related to camping, including setting up tents, gathering supplies, and managing animals, as reflected in the representative documents that describe the characters' efforts to establish a campsite and care for their surroundings.",
+        "alternative_labels": "Tent Setup, Outdoor Adventure, Wilderness Logistics"
+    },
+    "4": {
+        "primary_label": "Nighttime Reflections",
+        "explanation": "This topic represents themes of nighttime experiences, emotional reflections, and the interplay of light and darkness, often involving domestic settings and interactions with children or vulnerable figures. The documents depict moments of care, concern, and the mystical qualities of night, as well as the comfort and fear associated with it.",
+        "alternative_labels": "Nocturnal Encounters, Dreams and Light, Evening Tales"
+    },
+    "5": {
+        "primary_label": "Marine Geology",
+        "explanation": "This topic focuses on the geological processes and formations related to marine environments, particularly the formation of chalk and sediment at the bottom of the sea, as well as the impact of volcanic activity on marine life and landscapes.",
+        "alternative_labels": "Oceanic Formation, Geological Wonders, Sea Life and Landforms"
+    },
+    "6": {
+        "primary_label": "Military Engagements",
+        "explanation": "This topic focuses on military confrontations, particularly involving English and French forces, highlighting strategies, troop movements, and the dynamics of battle during historical conflicts.",
+        "alternative_labels": "Battle Strategies, Colonial Warfare, English-French Conflicts"
+    },
+    "7": {
+        "primary_label": "Family Dynamics",
+        "explanation": "This topic represents the complexities of familial relationships, focusing on themes of support, ambition, and emotional connections among family members, particularly siblings and parents. The documents illustrate discussions about personal aspirations, the influence of parental expectations, and the importance of affection and understanding within the family unit.",
+        "alternative_labels": "Sibling Relationships, Parental Influence, Emotional Bonds"
+    },
+    "8": {
+        "primary_label": "Nautical Adventures",
+        "explanation": "This topic represents narratives centered around maritime experiences, including themes of sailing, piracy, and encounters with nature at sea, as reflected in the associated words and documents.",
+        "alternative_labels": "Sea Voyages, Pirate Tales, Oceanic Journeys"
+    },
+    "9": {
+        "primary_label": "School Sports",
+        "explanation": "This topic represents the dynamics of school sports, particularly focusing on football matches among boys, highlighting themes of competition, camaraderie, and the experiences of school life.",
+        "alternative_labels": "Football Rivalry, Schoolhouse Games, Boys' Sports Culture"
+    },
+    "10": {
+        "primary_label": "Childhood Adventures",
+        "explanation": "This topic represents the whimsical and imaginative experiences of children as they engage in playful activities, often involving fantastical elements like dragons and the pursuit of small treasures or rewards, reflecting their innocence and creativity.",
+        "alternative_labels": "Imaginative Play, Fantasy Pursuits, Whimsical Tales"
+    },
+    "11": {
+        "primary_label": "Royal Family Life",
+        "explanation": "This topic represents the complexities and challenges faced by royal families, particularly focusing on their personal lives, public perceptions, and the societal expectations surrounding them. It highlights the contrast between the perceived glamour of royalty and the underlying struggles they endure, as depicted in the representative documents.",
+        "alternative_labels": "Monarchy Dynamics, Life of Royals, Royalty and Society"
+    },
+    "12": {
+        "primary_label": "Property Disputes",
+        "explanation": "This topic revolves around issues related to property ownership, legal decisions regarding land, and the implications of such decisions on individuals and families, as reflected in the discussions and narratives of the representative documents.",
+        "alternative_labels": "Land Ownership, Legal Matters, Family Property"
+    },
+    "13": {
+        "primary_label": "Snowy Adventures",
+        "explanation": "This topic represents the experiences and challenges faced by characters in a snowy, mountainous landscape, highlighting themes of exploration, survival, and the mystical elements of their journey.",
+        "alternative_labels": "Mountain Mystique, Frosty Journeys, Mulgar Travels"
+    },
+    "14": {
+        "primary_label": "Emotional Farewells",
+        "explanation": "This topic represents the deep emotional connections and farewells experienced by characters, often involving themes of love, loss, and the struggle to express feelings in moments of grief or separation. The documents reflect intense emotional exchanges, highlighting the pain of parting and the significance of love and support among individuals.",
+        "alternative_labels": "Heartfelt Goodbyes, Love and Loss, Emotional Connections"
+    },
+    "15": {
+        "primary_label": "Violent Confrontation",
+        "explanation": "This topic represents intense physical conflicts and battles, characterized by themes of bloodshed, death, and the struggle for survival, as depicted in the associated documents that describe fierce combat and the valor of warriors.",
+        "alternative_labels": "Battle Scenes, Bloodshed and Valor, Heroic Struggles"
+    }
+}

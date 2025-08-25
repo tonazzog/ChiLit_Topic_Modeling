@@ -214,4 +214,23 @@ class CorpusAnalyzer:
       plt.title('Document Length Box Plot')
       
       plt.tight_layout()
-      plt.show()      
+      plt.show()
+      
+    def plot_document_length(self, individual_stats):
+        """Plot document lengths."""
+        df = pd.DataFrame(individual_stats)
+        df['book_id'] = df['file_id'].str.removesuffix(".txt")
+        # Sort by total_words descending
+        df_sorted = df.sort_values(by="total_words", ascending=False)
+
+        # Plot
+        plt.figure(figsize=(14, 5))
+        plt.bar(df_sorted["book_id"], df_sorted["total_words"], color="skyblue")
+        plt.xlabel("File")
+        plt.ylabel("Total Words")
+        plt.title("Total Words per Document (sorted)")
+        plt.xticks(rotation=45, ha="right", fontsize=8)
+
+        plt.show()
+        
+   
