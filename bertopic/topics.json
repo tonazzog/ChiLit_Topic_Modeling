@@ -6494,7 +6494,20 @@
     "9": "9_reply_cottage_indian_forest",
     "10": "10_rock_chalk_volcano_earthquake"
   },
-  "custom_labels": null,
+  "custom_labels": [
+    "-",
+    "family love",
+    "birds and nature",
+    "nautical adventures",
+    "school dynamics",
+    "family dynamics",
+    "military engagements",
+    "royal family dynamics",
+    "loss and hope",
+    "horse training",
+    "frontier hunting",
+    "geological processes"
+  ],
   "_outliers": 1,
   "topic_aspects": {}
 }
