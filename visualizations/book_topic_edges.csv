@@ -1,0 +1,143 @@
+Source,Target,Weight
+alice,Little Animals,0.2195346554196319
+alice,Financial Transactions,0.09520777401532918
+alone,Motherhood and Care,0.33971318179683296
+alone,Challanges of Growing,0.09985003406982287
+amulet,Motherhood and Care,0.17409463932457817
+amulet,Financial Transactions,0.14122553867714585
+beauty,Financial Transactions,0.28804185107445057
+beauty,Heroic Combat,0.15030446392168306
+brass,Time and Reflection,0.37129197864623
+brass,Family Dynamics,0.09184480401510824
+bunny,Fantastic Adventure,0.3012696459889412
+bunny,Little Animals,0.2338320288807154
+canada,Survival in the Wild,0.47794932818846936
+canada,Nautical Adventures,0.058497185169895285
+carved,Challanges of Growing,0.28826744102989327
+carved,Emotional Reconciliation,0.12105288707462024
+clive,Military Engagements,0.5515163230146929
+clive,Nautical Adventures,0.07282323962374436
+coral,Nautical Adventures,0.39466505534946916
+coral,Geological Evolution,0.08996875233112234
+crofton,Challanges of Growing,0.230495800630447
+crofton,Financial Transactions,0.0975804241173054
+cuckoo,Little Animals,0.35633761858012764
+cuckoo,Challanges of Growing,0.12406610028305527
+daisy,Family Dynamics,0.2770165747042007
+daisy,Emotional Reconciliation,0.15822503550495987
+dominics,School Rivalry,0.46493895126252693
+dominics,Heroic Combat,0.050270507531230406
+dove,Noble Lineage,0.40195641441096086
+dove,Time and Reflection,0.08695102785932249
+dragons,Financial Transactions,0.2019117252671314
+dragons,Little Animals,0.16238380370216027
+dreamdays,Time and Reflection,0.20429619285972428
+dreamdays,Nautical Adventures,0.08312341854557816
+duke,Noble Lineage,0.28597917968941416
+duke,Heroic Combat,0.10830867167610182
+eric,School Rivalry,0.2387423176251626
+eric,Emotional Reconciliation,0.15154743172734156
+fiord,Nautical Adventures,0.20836389755838483
+fiord,Fantastic Adventure,0.11505435902103532
+five,Financial Transactions,0.22282363161903532
+five,Motherhood and Care,0.11527162099610237
+flopsy,Fantastic Adventure,0.4706239640712738
+flopsy,Little Animals,0.24851485937833787
+forest,Survival in the Wild,0.455946260914275
+forest,Noble Lineage,0.08904112811309033
+girls,Emotional Reconciliation,0.2755106681712222
+girls,Motherhood and Care,0.13456528563707398
+glass,Little Animals,0.23052248241510823
+glass,Financial Transactions,0.13117672262091623
+goldenage,Time and Reflection,0.2601232785483348
+goldenage,School Rivalry,0.07814615637471434
+holiday,Challanges of Growing,0.15332438751933009
+holiday,Emotional Reconciliation,0.1281624183054654
+howwhy,Geological Evolution,0.6491470599096073
+howwhy,Challanges of Growing,0.040910651032724045
+jackanapes,Heroic Combat,0.1546232659692088
+jackanapes,Financial Transactions,0.11488517207953221
+jemima,Time and Reflection,0.351936531237637
+jemima,Little Animals,0.24987775746667465
+jessica,Motherhood and Care,0.3065879953047261
+jessica,Emotional Reconciliation,0.1862094199715648
+jungle,Heroic Combat,0.32470358266557253
+jungle,Fantastic Adventure,0.1700854678809022
+kidnap,Darkness and Light,0.19077139807221313
+kidnap,Nautical Adventures,0.11301584038158705
+leila,Emotional Reconciliation,0.21152331870477142
+leila,Challanges of Growing,0.14752804847959997
+masterman,Survival in the Wild,0.3043187227141711
+masterman,Nautical Adventures,0.2884386533104199
+meg,Motherhood and Care,0.45449236128565473
+meg,Darkness and Light,0.07801046845054736
+mice,Time and Reflection,0.5065557606052608
+mice,Financial Transactions,0.206466980924597
+moonfleet,Darkness and Light,0.38972138473061174
+moonfleet,Nautical Adventures,0.07364029243094505
+mopsa,Motherhood and Care,0.2777187652267595
+mopsa,Little Animals,0.16194875307767193
+mulgars,Fantastic Adventure,0.8473490765426652
+mulgars,Time and Reflection,0.01653817399604512
+overtheway,Challanges of Growing,0.19096553131662572
+overtheway,Motherhood and Care,0.15770014563830853
+pan,Motherhood and Care,0.15121749477009871
+pan,Nautical Adventures,0.10377811241274079
+peasant,Noble Lineage,0.3641602663649851
+peasant,Challanges of Growing,0.17111454659410716
+prigio,Noble Lineage,0.2187100456507566
+prigio,Motherhood and Care,0.19369123607951527
+prince,Little Animals,0.14373563861565503
+prince,Fantastic Adventure,0.13126650789863956
+princess,Darkness and Light,0.30871412078487365
+princess,Motherhood and Care,0.2061016979514713
+quatermain,Heroic Combat,0.26893662531754925
+quatermain,Noble Lineage,0.10756605625111755
+rabbit,Time and Reflection,0.492503338935785
+rabbit,Little Animals,0.24251636240587687
+railway,Financial Transactions,0.22772458288853595
+railway,Motherhood and Care,0.1569464578614327
+redclyffe,Family Dynamics,0.3424996694272827
+redclyffe,Emotional Reconciliation,0.16759387807135423
+rival,Nautical Adventures,0.1986198951521601
+rival,Noble Lineage,0.13055953028442674
+rose,Motherhood and Care,0.20148252948403955
+rose,Noble Lineage,0.1630752275077005
+secret,Little Animals,0.3890888349208428
+secret,Motherhood and Care,0.09968497969471939
+seekers,Financial Transactions,0.41424816524340136
+seekers,Motherhood and Care,0.05740118003528868
+settlers,Darkness and Light,0.23331259726645084
+settlers,Survival in the Wild,0.09741925999381199
+solomons,Heroic Combat,0.276858778422357
+solomons,Geological Evolution,0.09256001852713704
+squirrel,Fantastic Adventure,0.31772748604416845
+squirrel,Little Animals,0.20167483296245337
+stalky,School Rivalry,0.30459126460761277
+stalky,Time and Reflection,0.15071436239034786
+stiria,Fantastic Adventure,0.24357303640406044
+stiria,Geological Evolution,0.10512049904833216
+tapestry,Little Animals,0.17841061266358121
+tapestry,Motherhood and Care,0.1614143706605925
+toadylion,Time and Reflection,0.15531436380538036
+toadylion,Heroic Combat,0.09749319899319311
+tombrown,School Rivalry,0.24308550769447823
+tombrown,Challanges of Growing,0.11135457224625295
+treasure,Nautical Adventures,0.30298353650084564
+treasure,Darkness and Light,0.0924026437678549
+unlikely,Motherhood and Care,0.19343660684486774
+unlikely,Financial Transactions,0.13300423976790626
+vice,Time and Reflection,0.23418508574986438
+vice,School Rivalry,0.1436901138908857
+wallypug,Little Animals,0.1965509644001057
+wallypug,Financial Transactions,0.07422091198619456
+water,Geological Evolution,0.3162379981943529
+water,Financial Transactions,0.08144059159660554
+willows,Fantastic Adventure,0.11986515740247662
+willows,Little Animals,0.09914435952631347
+wind,Motherhood and Care,0.16854281952396377
+wind,Darkness and Light,0.15552993787587185
+winning,Military Engagements,0.2940256984011029
+winning,Noble Lineage,0.2435700877781858
+woodmagic,Little Animals,0.3294063467368431
+woodmagic,Military Engagements,0.1455834959055261

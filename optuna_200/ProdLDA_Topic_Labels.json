@@ -1,92 +1,92 @@
 {
     "0": {
-        "primary_label": "Military Engagements",
-        "explanation": "This topic represents the strategic and tactical aspects of military confrontations, focusing on troop movements, attacks, and the dynamics between opposing forces, particularly in historical contexts involving French and English armies.",
-        "alternative_labels": "Battle Strategies, Troop Maneuvers, Combat Operations"
+        "primary_label": "Warrior Battles",
+        "explanation": "This topic represents the themes of combat, valor, and the use of traditional weaponry, as depicted in the associated words and the content of the documents which focus on intense fighting scenarios involving warriors, battles, and the significance of weapons like swords and axes.",
+        "alternative_labels": "Combat Legends, Heroic Warfare, Epic Confrontations"
     },
     "1": {
-        "primary_label": "Loss and Grief",
-        "explanation": "This topic represents the emotional experiences of loss, mourning, and the deep connections between family members, particularly in the context of children and their parents. The documents reflect themes of sorrow, the fragility of life, and the longing for connection amidst tragedy.",
-        "alternative_labels": "Childhood Sorrow, Mourning Bonds, Family Tragedy"
+        "primary_label": "Magical Spaces",
+        "explanation": "This topic represents the enchanting and whimsical environments found in children's literature, characterized by elements like doors, windows, and light that lead to adventures and discoveries. The focus on sounds and the presence of characters like the princess and the cuckoo further emphasizes the magical atmosphere of these spaces.",
+        "alternative_labels": "Enchanted Realms, Whimsical Adventures, Dreamlike Environments"
     },
     "2": {
-        "primary_label": "Magical Adventures",
-        "explanation": "This topic revolves around whimsical stories featuring dragons, their interactions with children, and elements of fantasy such as magical items and playful adventures. The documents highlight themes of friendship, imagination, and the fantastical elements associated with dragons, including their characteristics and the children's responses to them.",
-        "alternative_labels": "Fantasy Dragons, Whimsical Tales, Magical Creatures"
+        "primary_label": "Garden Wildlife",
+        "explanation": "This topic represents the interactions and observations of various animals and plants in a garden setting, emphasizing the presence of birds, insects, and the natural environment.",
+        "alternative_labels": "Birds and Nature, Garden Creatures, Wildlife in Gardens"
     },
     "3": {
-        "primary_label": "Financial Deception",
-        "explanation": "This topic revolves around themes of financial obligation, dishonesty, and the moral dilemmas faced by characters in situations involving money, promises, and the consequences of deceitful actions.",
-        "alternative_labels": "Financial Struggles, Moral Dilemmas, Promises and Consequences"
+        "primary_label": "Royal Family",
+        "explanation": "This topic represents the dynamics and challenges faced by royal families, particularly in the context of political turmoil, captivity, and the struggle for power, as depicted through the narratives of kings, queens, and their courts.",
+        "alternative_labels": "Monarchy Struggles, Royal Captivity, Sovereign Challenges"
     },
     "4": {
-        "primary_label": "School Rivalry",
-        "explanation": "This topic represents the competitive dynamics and interactions among different school forms, particularly focusing on the rivalry between the Fifth and Sixth Forms, as well as the experiences and perspectives of the boys involved in these competitions.",
-        "alternative_labels": "Class Competition, Form Rivalry, School Matches"
+        "primary_label": "Whimsical Adventure",
+        "explanation": "This topic represents a playful and imaginative narrative style, often featuring elements of nature, childhood experiences, and light-hearted escapades, as depicted in the representative documents which include themes of exploration and encounters with whimsical characters.",
+        "alternative_labels": "Playful Journeys, Enchanted Escapades, Lighthearted Tales"
     },
     "5": {
-        "primary_label": "Pirate Battles",
-        "explanation": "This topic represents the themes of conflict and violence among pirates, highlighting elements such as leadership, death, and combat on the high seas, as depicted in the associated documents.",
-        "alternative_labels": "Naval Warfare, Pirate Conflicts, Sea Combat"
+        "primary_label": "Oceanic Exploration",
+        "explanation": "This topic represents the adventures and observations related to the sea, islands, and marine life, as depicted in the documents that describe experiences on boats, coral reefs, and the beauty of the ocean environment.",
+        "alternative_labels": "Marine Adventure, Island Discovery, Coastal Journey"
     },
     "6": {
-        "primary_label": "Home Affection",
-        "explanation": "This topic represents the themes of personal relationships, emotional connections, and the sense of belonging associated with home and family. The documents reflect characters' feelings of happiness, affection, and the importance of home life, often intertwined with social and familial duties.",
-        "alternative_labels": "Domestic Delight, Emotional Bonds, Family Happiness"
+        "primary_label": "Childhood Lessons",
+        "explanation": "This topic encompasses themes of childhood experiences, learning, and the emotional complexities of growing up, as reflected in the interactions between children and their caregivers, as well as their struggles with understanding and expressing emotions.",
+        "alternative_labels": "Growing Up, Emotional Education, Family Dynamics"
     },
     "7": {
-        "primary_label": "Winter Journey",
-        "explanation": "This topic represents the themes of travel and adventure in a cold, snowy environment, highlighting the struggles and experiences of characters as they navigate through icy landscapes and encounter various challenges.",
-        "alternative_labels": "Winter Adventure, Icy Travels, Snowy Quest"
+        "primary_label": "Animal Husbandry",
+        "explanation": "This topic revolves around the management and care of livestock, particularly in the context of settling and farming, as illustrated by the discussions of cattle, sheep, and dogs in the representative documents.",
+        "alternative_labels": "Livestock Management, Farming and Animals, Settler Agriculture"
     },
     "8": {
-        "primary_label": "Survival in the Wilderness",
-        "explanation": "This topic represents the activities and preparations involved in setting up a campsite, including packing, carrying supplies, and establishing a temporary living space in nature, as depicted in the documents.",
-        "alternative_labels": "Outdoor Setup, Tent Arrangement, Wilderness Logistics"
+        "primary_label": "Noble Lineage",
+        "explanation": "This topic revolves around themes of nobility, family honor, and the societal expectations surrounding marriage and relationships among the upper classes. The documents reflect the struggles of characters navigating their duties to family and the complexities of love versus obligation, particularly within noble families.",
+        "alternative_labels": "Noble Heritage, Familial Duty, Aristocratic Romance"
     },
     "9": {
-        "primary_label": "Magical Places and Creatures",
-        "explanation": "This topic represents a whimsical and imaginative narrative centered around gardens, magical creatures like the cuckoo, and themes of exploration and dreams. The documents reflect a blend of fantasy elements, where characters interact with enchanting settings and experience a sense of wonder.",
-        "alternative_labels": "Magical Exploration, Enchanted Dreams, Whimsical Adventures"
+        "primary_label": "Horse Training",
+        "explanation": "This topic focuses on the processes and experiences related to training horses, including breaking them in, harnessing, and the relationship between horses and their masters during this training. It highlights the challenges faced by horses and the importance of kind treatment during training.",
+        "alternative_labels": "Equine Education, Breaking In Horses, Master-Equine Relationship"
     },
     "10": {
-        "primary_label": "Island Exploration",
-        "explanation": "This topic represents the adventure and discovery associated with exploring a tropical island, focusing on its natural features such as mountains, sea, and coral reefs, as well as the experiences of the characters as they navigate and appreciate their surroundings.",
-        "alternative_labels": "Tropical Adventure, Coastal Discovery, Oceanic Journey"
+        "primary_label": "Colonial Military Conflicts",
+        "explanation": "This topic represents the military engagements and strategies during colonial times, particularly focusing on the battles between French and English troops in India, as depicted in the documents. The key terms highlight the forces, attacks, and the roles of various officers and troops involved in these conflicts.",
+        "alternative_labels": "Colonial Warfare, European Rivalries in India, Military Engagements in India"
     },
     "11": {
-        "primary_label": "Natural Transformation",
-        "explanation": "This topic represents the interconnectedness of living organisms and their environments, emphasizing growth, adaptation, and the cyclical nature of life in both land and sea ecosystems.",
-        "alternative_labels": "Biological Growth, Ecosystem Dynamics, Life and Change"
+        "primary_label": "Love and Loss",
+        "explanation": "This topic encapsulates the themes of love, grief, and the comfort found in relationships during times of loss. The prominent words and documents reflect deep emotional connections and the struggles faced when confronting death and separation from loved ones.",
+        "alternative_labels": "Grief and Comfort, Affection in Mourning, Heartfelt Farewells"
     },
     "12": {
-        "primary_label": "Whimsical Narratives",
-        "explanation": "This topic encompasses a collection of whimsical and fantastical narratives that evoke a sense of curiosity and imagination, often featuring anthropomorphic characters and surreal situations, as reflected in the representative documents and the unusual topic words.",
-        "alternative_labels": "Playful Tales, Surreal Adventures, Quirky Stories"
+        "primary_label": "School Rivalry",
+        "explanation": "This topic centers around the dynamics of competition and camaraderie among schoolboys, particularly focusing on their academic achievements and sportsmanship, as illustrated through the interactions and events described in the representative documents.",
+        "alternative_labels": "Academic Competition, Cricket and Class, Schoolboy Dynamics"
     },
     "13": {
-        "primary_label": "Journeying with Horses",
-        "explanation": "This topic represents the experiences and challenges associated with horse-drawn travel, focusing on the relationship between horses, their drivers, and the roads they traverse. It highlights the care and consideration required for horses during journeys, as well as the dynamics of travel in historical contexts.",
-        "alternative_labels": "Horse-Drawn Carriages, Journeying with Horses, Stable Life"
+        "primary_label": "Pirate Adventures",
+        "explanation": "This topic represents the themes and elements commonly found in pirate stories, including ship life, conflict, and the presence of a captain, crew dynamics, and the allure of treasure. The associated words and documents highlight the struggles and experiences of characters in a nautical setting, often involving piracy and adventure.",
+        "alternative_labels": "Nautical Conflicts, Seafaring Tales, Buccaneer Life"
     },
     "14": {
-        "primary_label": "Childhood Memories",
-        "explanation": "This topic represents themes of nostalgia, familial bonds, and the experiences of childhood, particularly focusing on the relationships between children and their parents or guardians, as well as the emotions tied to memories of youth.",
-        "alternative_labels": "Nostalgic Family Bonds, Innocent Childhood, Maternal Affection"
+        "primary_label": "Childhood Transactions",
+        "explanation": "This topic represents the experiences and desires of children regarding money, purchasing items, and the imaginative situations surrounding these transactions. It reflects their interactions with adults and shops, their wishes, and the innocence of their financial dealings.",
+        "alternative_labels": "Money and Wishes, Children's Shopping Adventures, Innocent Transactions"
     },
     "15": {
-        "primary_label": "Family Dynamics and Conflicts",
-        "explanation": "This topic represents the emotional struggles and conflicts faced by characters in relationships, particularly focusing on feelings of regret, duty, and the complexities of love and familial expectations. The words and documents highlight themes of sorrow, hope, and the moral dilemmas surrounding personal choices.",
-        "alternative_labels": "Relationship Struggles, Regret and Duty, Familial Tensions"
+        "primary_label": "Nature's Wonders",
+        "explanation": "This topic represents the exploration of the natural world, emphasizing the interconnectedness of life, the passage of time, and the stories that emerge from nature's phenomena. It reflects on how living things evolve and interact with their environment over the years, as well as the lessons we can learn from these observations.",
+        "alternative_labels": "Natural History, Life's Stories, Evolution of Nature"
     },
     "16": {
-        "primary_label": "Property Decisions",
-        "explanation": "This topic revolves around discussions and decisions regarding property, living arrangements, and the implications of these choices on personal relationships and future plans, as reflected in the dialogues and narratives of the representative documents.",
-        "alternative_labels": "Real Estate Choices, Living Arrangements, Family Property Matters"
+        "primary_label": "Snowy Adventures",
+        "explanation": "This topic represents narratives that revolve around characters, particularly Mulgars, experiencing adventures in a snowy landscape filled with elements of magic, danger, and the mystical qualities of nature, as highlighted by the recurring themes of cold, the moon, and shadowy settings.",
+        "alternative_labels": "Winter Mystique, Magical Snow Journeys, Cold Wilderness Tales"
     },
     "17": {
-        "primary_label": "Royal Family Dynamics",
-        "explanation": "This topic represents the complexities and tensions within the royal family, particularly focusing on the interactions between the king, queen, and their court, as well as their relationship with the people during a time of political upheaval.",
-        "alternative_labels": "Monarchy Struggles, Court Life Conflicts, Royal Relations"
+        "primary_label": "Social Connections",
+        "explanation": "This topic represents the dynamics of relationships, conversations, and emotional connections among characters, highlighting themes of happiness, family ties, and personal interactions.",
+        "alternative_labels": "Interpersonal Relationships, Family Dynamics, Emotional Bonds"
     }
 }
