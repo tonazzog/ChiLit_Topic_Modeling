@@ -156,8 +156,13 @@
             });
 
             // Sort books by total relevance (descending)
-            const sortedBooks = Object.keys(bookTotals)
-                .sort((a, b) => bookTotals[b] - bookTotals[a]);
+            var sortedBooks = Object.entries(bookTotals)
+              .map(([key, value]) => [key, Number(value.toFixed(4))])
+              .sort((a, b) => {
+                    if (b[1] !== a[1]) return b[1] - a[1];
+                    return a[0].localeCompare(b[0]);
+                  })
+                .map(([key]) => key);                   
 
             // Create traces for each topic
             const traces = [];
@@ -190,7 +195,7 @@
             });
 
             const layout = {
-                title: `Books sorted by: ${selectedTopics.join(', ')}`,
+                title: `Books sorted by total relevance`,
                 xaxis: {
                     title: 'Relevance'
                 },
